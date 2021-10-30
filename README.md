@@ -1,7 +1,7 @@
 
 # Face-Mask-Detection-Web-App
 
-Face Mask Detection web applicaion built with Flask, Keras-TensorFlow, OpenCV. It can be used to detect face masks both in images and in real-time video.
+Face Mask Detection web application built with Flask, Keras-TensorFlow, OpenCV. It can be used to detect face masks both in images and in real-time camera video using browser.
 
 
 ## Goal
